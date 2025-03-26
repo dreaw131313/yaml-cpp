@@ -154,6 +154,7 @@
     <ClInclude Include="include\yaml-cpp\emitterstyle.h" />
     <ClInclude Include="include\yaml-cpp\eventhandler.h" />
     <ClInclude Include="include\yaml-cpp\exceptions.h" />
+    <ClInclude Include="include\yaml-cpp\fptostring.h" />
     <ClInclude Include="include\yaml-cpp\mark.h" />
     <ClInclude Include="include\yaml-cpp\node\convert.h" />
     <ClInclude Include="include\yaml-cpp\node\detail\impl.h" />
@@ -215,6 +216,7 @@
     <ClCompile Include="src\emitterutils.cpp" />
     <ClCompile Include="src\exceptions.cpp" />
     <ClCompile Include="src\exp.cpp" />
+    <ClCompile Include="src\fptostring.cpp" />
     <ClCompile Include="src\memory.cpp" />
     <ClCompile Include="src\node.cpp" />
     <ClCompile Include="src\nodebuilder.cpp" />
